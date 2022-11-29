@@ -15,6 +15,6 @@ NB: of course the theme.json is made by Gutenberg after these iterations.
 
 ## Carolina Nymark's Tutorial
 
-Here is one of the best tutorial for WordPress frontenders: [WordPress Full Site Editing](https://fullsiteediting.com/lessons/creating-theme-json/) The tutorial here are excellent.
+Here is one of the best tutorial sites for WordPress frontenders: [WordPress Full Site Editing](https://fullsiteediting.com/lessons/creating-theme-json/) The tutorial here are excellent.
 
 Make sure that you try the nice [Block Theme Generator](https://fullsiteediting.com/block-theme-generator/)!
